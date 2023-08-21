@@ -1,0 +1,8 @@
+tensorflow==2.2.0
+PyContracts==1.8.12
+decorator==4.0.10
+numpy==1.19.2
+pandas==1.1.5
+pyparsing==2.2.2
+Scikit-learn==0.21.2
+Scipy==1.6.0

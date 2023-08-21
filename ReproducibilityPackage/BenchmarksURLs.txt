@@ -1,0 +1,4 @@
+DeepLocalize : https://github.com/Wardat-ISU/DeepLocalize
+UMLAUT: https://github.com/BerkeleyHCI/umlaut
+AUTOTRAINER: https://github.com/shiningrain/AUTOTRAINER
+NeuraLint: https://github.com/neuralint/neuralint
