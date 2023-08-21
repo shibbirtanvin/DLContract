@@ -9,10 +9,10 @@ This repository contains the reproducibility package, source code, benchmark, an
 * Breno Dantas Cruz, Iowa State University (bdantasc@iastate.edu)
 * Hridesh Rajan, Iowa State University (hridesh@iastate.edu)
 
-**PDF** https://design.cs.iastate.edu/papers/ESEC-FSE-23a/dlcontract.pdf
+**PDF** [DLContract Paper at_ESEC/FSE2023](https://github.com/shibbirtanvin/DLContract/blob/main/DLContractPaper_ESECFSE23.pdf)
 
 **DOI:** This artifact is also published in Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8271116.svg)](https://doi.org/10.5281/zenodo.8271116)
 
 
 ## Index
