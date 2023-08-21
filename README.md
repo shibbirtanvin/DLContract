@@ -94,7 +94,7 @@ python motivExampleBug.py
 python motivExampleCorrect.py
 ```
 
-To run the tool with more sample example Buggy and Correct programs with example outputs, please refer to the [installation file](/INSTALL.md) for detailed instructions. The scripts to execute all DL programs from collected benchmarks are provided here [Scripts to execute all the codes in the collected benchmarks](ReproducibilityPackage/scripts.zip).
+To run the tool with more sample example Buggy and Correct programs with example outputs, please refer to the [installation file](/INSTALL.md) for detailed instructions. The scripts to execute all DL programs from collected benchmarks are provided here in the [scripts to execute all the codes in the collected benchmarks](ReproducibilityPackage/scripts).
 
 ### Cite the paper as
 ```
