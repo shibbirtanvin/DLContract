@@ -14,7 +14,6 @@ This repository contains the reproducibility package, source code, benchmark, an
 **DOI:** This artifact is also published in Zenodo:
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
 
-![The workflow of DLContract technique](/workflowDLContract.png)
 
 ## Index
 > 1. [Reproducibility Package](ReproducibilityPackage/)
