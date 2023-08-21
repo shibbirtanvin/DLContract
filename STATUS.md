@@ -26,4 +26,4 @@ We also provided detailed instructions for installation, environment setup, and 
 ### Available
 The artifact is publicly shared in the GitHub repository: `https://github.com/shibbirtanvin/DLContract`.
 Furthermore, the latest release is published in Zenodo and a DOI is obtained:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.TODO.svg)](https://doi.org/10.5281/zenodo.TODO)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8271116.svg)](https://doi.org/10.5281/zenodo.8271116)
