@@ -86,7 +86,7 @@ If required, run the following command to update pip on Python: `python3 -m pip 
 
 By default *motivExample.py* will be executed and *data normalization contract* will be shown as contract violation error.
 
-4. To execute the motivating example buggy and correct programs execute following commands in the terminal:
+4. To execute the motivating example buggy and correct programs execute the following commands in the terminal:
 
 ```
 source venv/bin/activate
