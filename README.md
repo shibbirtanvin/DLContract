@@ -1,6 +1,6 @@
 # DLContract
 
-This repository contains the reproducibility package, source code, benchmark, and results for the paper - **"Design by Contract for Deep Learning APIs"**, appeared in ESEC/FSE’2023: The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering at San Francisco, California.
+This repository contains the reproducibility package, source code, benchmark, and results for the paper - **"Design by Contract for Deep Learning APIs"**, which appeared in ESEC/FSE’2023: The 31st ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering at San Francisco, California.
 
 ### Authors
 * Shibbir Ahmed, Iowa State University (shibbir@iastate.edu)
@@ -35,7 +35,7 @@ This repository contains the reproducibility package, source code, benchmark, an
 
 ## Installation
 
-To run DLContract, we need to install Python 3.x, Python 3.7 is recommended. The current version has been tested on Python 3.7. It is recommended to install Python virtual environment for the tool. Furthermore, we used bash shell scripts to automate running benchmark and Python scripts. Below are step-by-step instructions to setup environment and run the tool.
+To run DLContract, we need to install Python 3.x, Python 3.7 is recommended. The current version has been tested on Python 3.7. It is recommended to install Python virtual environment for the tool. Furthermore, we used bash shell scripts to automate running benchmark and Python scripts. Below are step-by-step instructions to setup the environment and run the tool.
 
 ### Environment Setup
 
@@ -45,7 +45,7 @@ Follow these steps to create a virtual environment and clone the DLContract repo
 
 ```
 git clone https://github.com/shibbirtanvin/DLContract
-cd ReproducibilityPackage/@Keras
+cd DLContract/ReproducibilityPackage/@Keras
 ```
 
 2. Give execution permission using the following command:
