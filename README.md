@@ -12,7 +12,7 @@ This repository contains the reproducibility package, source code, benchmark, an
 **PDF** [DLContract Paper at_ESEC/FSE2023](https://github.com/shibbirtanvin/DLContract/blob/main/DLContractPaper_ESECFSE23.pdf)
 
 **DOI:** This artifact is also published in Zenodo:
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8271116.svg)](https://doi.org/10.5281/zenodo.8271116)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8271646.svg)](https://doi.org/10.5281/zenodo.8271646)
 
 
 ## Index
